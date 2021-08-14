@@ -59,7 +59,6 @@ dependencies:
   flutter_signin_button: ^2.0.0
   flutter_facebook_login: ^3.0.0
   image_cropper: ^1.4.0
-  video_player: ^2.1.12
   sign_in_with_apple: ^3.0.0
   the_apple_sign_in: ^1.1.1
   before_after: ^2.1.0

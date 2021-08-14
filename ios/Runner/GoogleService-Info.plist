@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>277983141718-h6b0hh9g79e6apl8crliob7i9j827dd1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.277983141718-h6b0hh9g79e6apl8crliob7i9j827dd1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrFI4tLBOADCFQjPDUAF335anYcQj0_N8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>277983141718</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wemeet.africa</string>
+	<key>PROJECT_ID</key>
+	<string>wemeet-293821</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wemeet-293821.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:277983141718:ios:62626438902a2a1f51c0f7</string>
+	<key>DATABASE_URL</key>
+	<string>https://wemeet-293821.firebaseio.com</string>
+</dict>
+</plist>
